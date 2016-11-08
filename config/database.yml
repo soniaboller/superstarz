@@ -1,0 +1,6 @@
+default:
+  adapter: mysql2
+  database: superstars
+  username: sinatra
+  password: pwd
+  host: localhost
